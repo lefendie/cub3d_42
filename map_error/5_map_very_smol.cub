@@ -1,0 +1,12 @@
+
+NO ./assets/Wall_North.xpm
+WE ./assets/Wall_West.xpm
+EA ./assets/Wall_East.xpm
+SO ./assets/Wall_South.xpm
+
+C 0,43,233
+F 255,2,3
+
+111
+1E1
+111

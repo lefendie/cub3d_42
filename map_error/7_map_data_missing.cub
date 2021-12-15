@@ -1,0 +1,12 @@
+NO ./assets/Wall_North.xpm
+WE ./assets/Wall_West.xpm
+EA ./assets/Wall_East.xpm
+SO ./assets/Wall_South.xpm
+
+C 255,2,3
+
+
+1111
+10S1
+1001
+1111

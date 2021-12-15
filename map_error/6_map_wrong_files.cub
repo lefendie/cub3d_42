@@ -1,0 +1,13 @@
+
+NO ./assets/Wall_North.xpm
+WE ./assets/Wall_West.xpehem
+EA ./assets/Wall_Iste.xpm
+SO ./assets/Wall_Saousse.xpm
+
+C 0,43,233
+F 255,2,3
+
+1111
+10S1
+1001
+1111

@@ -1,0 +1,19 @@
+
+
+NO ./assets/Wall_North.xpm
+WE ./assets/Wall_West.xpm
+EA ./assets/Wall_East.xpm
+SO ./assets/Wall_South.xpm
+
+F ./assets/floor_dirt.xpm
+C ./assets/floortile.xpm
+
+D ./assets/door.xpm
+
+1111111
+1S00001
+101D001
+1000001
+1000001
+1111111
+
